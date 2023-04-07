@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Planner G",
+    "version": "1.0",
+    "description": "Planner",
+    "icons": {
+        "16": "images/icons16.png",
+        "32": "images/icons32.png",
+        "48": "images/icons48.png",
+        "128": "images/icons128.png"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage",
+        "tabs",
+        "contextMenus"
+    ],
+    "background": {
+        "service_worker": "js/service-worker.js"
+    }
+}
