@@ -15,7 +15,7 @@
 
 <h2>Usage</h2>
 <ul>
-<li>The app greets you according the time of the day i.e: 'Good Morning Abdullah' (Name is editable by the user)</li>
+<li>The app greets you according to the time of the day i.e: 'Good Morning Abdullah' (Name is editable by the user)</li>
 <li>The progress bar at the top shows your progress for the day.</li>
 <li>To add a task, type in the input field and press enter.</li>
 <li>To add a website as an action item, click on the "link site for later" button, or right click on the page and click "link site for later".</li>
