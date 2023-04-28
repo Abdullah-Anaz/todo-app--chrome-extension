@@ -1,5 +1,7 @@
 # Chrome Extension - To-do App
 
+<img src="https://github.com/Abdullah-Anaz/todo-app--chrome-extension/blob/main/chromeextension.png" alt="chrome extension"/>
+
  <p>This is a simple to-do app chrome extension that allows you to manage your tasks and websites to visit later.<br>
  The extension has the following features:
 
@@ -12,6 +14,8 @@
 <li>Items completed before 24 hours will be automatically removed from the list</li>
 </ul>
 <p>
+
+<img src="https://github.com/Abdullah-Anaz/todo-app--chrome-extension/blob/main/chromeextension2.png" alt="chrome extension"/>
 
 <h2>Usage</h2>
 <ul>
